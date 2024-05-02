@@ -1,4 +1,5 @@
 import express,{Request,Response,NextFunction} from 'express';
+import './websocket';
 
 const app = express();
 const port = 3000;
