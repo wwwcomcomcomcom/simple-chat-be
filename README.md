@@ -15,3 +15,10 @@ In root
 npm run build
 npm run start
 ```
+---
+
+react + tailwind css로 간단한 퍼블리싱
+
+localStorage를 사용해서 사용자 이름 기억
+
+WebSocket을 이용한 실시간 채팅 기능
